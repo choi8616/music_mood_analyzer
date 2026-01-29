@@ -66,7 +66,7 @@ if __name__ == "__main__":
     
     # 1. 여기에 실제 이미지 파일 이름을 넣으세요!
     # (코드가 있는 폴더에 이미지가 같이 있어야 합니다)
-    image_filename = "seagull.jpeg"  # <-- 본인 파일명으로 수정
+    image_filename = "lake.jpg"  # <-- 본인 파일명으로 수정
     
     vector = recommender.get_query_vector(image_filename)
     
