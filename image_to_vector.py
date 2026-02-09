@@ -73,7 +73,7 @@ class BridgeRecommender:
             # numpy로 변환
             vector = embeds.cpu().numpy().flatten()
             
-            return vector
+            return vector, caption, enhanced_caption
             
         except Exception as e:
             print(f"❌ Error: {e}")
