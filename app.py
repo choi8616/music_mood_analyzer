@@ -170,5 +170,4 @@ def create_interface():
 if __name__ == "__main__":
     demo = create_interface()
     demo.queue()
-    # 포트 충돌 방지를 위해 7861로 변경
     demo.launch(server_name="0.0.0.0", server_port=7862, share=False)
