@@ -1,3 +1,6 @@
+import os
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
+
 import torch
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration
