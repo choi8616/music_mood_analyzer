@@ -1,10 +1,72 @@
 [
   {
     "id": 0,
-    "file_path": "music/Aphex Twin - Xtal (HQ).mp3",
-    "title": "Aphex Twin - Xtal (HQ)",
-    "artist": "Unknown",
-    "mood": "Unknown",
-    "genre": "Unknown"
+    "file_path": "processed_music/game_1.mp3",
+    "title": "game_1",
+    "mood": "energetic",
+    "genre": "game"
+  },
+  {
+    "id": 1,
+    "file_path": "processed_music/hiphop_1.mp3",
+    "title": "hiphop_1",
+    "mood": "groovy",
+    "genre": "hiphop"
+  },
+  {
+    "id": 2,
+    "file_path": "processed_music/house_1.mp3",
+    "title": "house_1",
+    "mood": "upbeat",
+    "genre": "house"
+  },
+  {
+    "id": 3,
+    "file_path": "processed_music/house_2.mp3",
+    "title": "house_2",
+    "mood": "energetic",
+    "genre": "house"
+  },
+  {
+    "id": 4,
+    "file_path": "processed_music/lofi_1.mp3",
+    "title": "lofi_1",
+    "mood": "calm",
+    "genre": "lofi"
+  },
+  {
+    "id": 5,
+    "file_path": "processed_music/lofi_2.mp3",
+    "title": "lofi_2",
+    "mood": "relaxed",
+    "genre": "lofi"
+  },
+  {
+    "id": 6,
+    "file_path": "processed_music/piano_1.mp3",
+    "title": "piano_1",
+    "mood": "melancholic",
+    "genre": "classical"
+  },
+  {
+    "id": 7,
+    "file_path": "processed_music/piano_2.mp3",
+    "title": "piano_2",
+    "mood": "peaceful",
+    "genre": "classical"
+  },
+  {
+    "id": 8,
+    "file_path": "processed_music/piano_3.mp3",
+    "title": "piano_3",
+    "mood": "dreamy",
+    "genre": "classical"
+  },
+  {
+    "id": 9,
+    "file_path": "processed_music/piano_4.mp3",
+    "title": "piano_4",
+    "mood": "sad",
+    "genre": "classical"
   }
 ]
